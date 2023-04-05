@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bienvenue sur ADIXIserveur</title>
+	<style>
+		body {
+			background-color: black;
+			color: white;
+		}
+	</style>
+</head>
+<body>
+	<h1>Bienvenue sur ADIXIserveur</h1>
+</body>
+</html>
